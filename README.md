@@ -10,23 +10,27 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/screenshot1.png)
+![Primera parte de la página web](https://github.com/absaae/absaae.github.io/assets/125155934/1c9cf340-e07d-413f-912f-9b254432cdee)
 
 Experiencia:
 
-![Experiencia](imagenes/screenshot2.png)
+![Experiencia](https://github.com/absaae/absaae.github.io/assets/125155934/00d3e671-e664-408e-8f60-8a01c978dbed)
+
 
 Proyectos:
 
-![Proyectos](imagenes/screenshot3.png)
+![Proyectos](https://github.com/absaae/absaae.github.io/assets/125155934/ad6f7943-fa18-422c-b48f-f2bf9478d7e7)
+
 
 Testimonios:
 
-![Testimonios](imagenes/screenshot4.png)
+![Testimonios](https://github.com/absaae/absaae.github.io/assets/125155934/0ac3c37f-4675-4ee1-a3c4-221b93f56a46)
+
 
 Contacto:
 
-![Contacto](imagenes/screenshot5.png)
+![Contacto](https://github.com/absaae/absaae.github.io/assets/125155934/ade7d079-6b64-4609-934a-bbb5f6279821)
+
 
 ## Tecnologías
 
@@ -41,7 +45,7 @@ Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstra
 
 ## Español
 
-El texto de la página web está escrito en español, al igual que las clases y atributos personalizados. Las clases relacionadas con Bootstrap se incluyeron en inglés.
+El texto de las clases y atributos personalizados son en español. Las clases relacionadas con Bootstrap se incluyeron en inglés.
 
 
 
